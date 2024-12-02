@@ -8,6 +8,33 @@ The project includes data preprocessing, exploratory data analysis, and the impl
 
 ---
 
+# Learning Objectives
+
+# 1. **Develop a Comprehensive Understanding**
+- Gather and clean datasets to ensure high-quality, consistent data.  
+- Explore relationships between air pollutants (e.g., PM2.5, NOx) and AQI values.  
+
+# 2. **Perform Exploratory Data Analysis**
+- Analyze the distribution of pollutants and AQI values.  
+- Identify **trends**, **patterns**, and **correlations** within the dataset.  
+
+# 3. **Feature Engineering**
+- Enhance model performance by creating or transforming features.  
+- Consider factors like time-series patterns, seasonal variations, and pollutant interactions.  
+
+# 4. **Apply Machine Learning Algorithms**
+- Experiment with various ML algorithms, including:
+  - Linear Regression  
+  - KNN  
+  - Random Forests  
+  - Decision Tree  
+- Optimize model parameters for better performance.  
+
+# 5. **Develop Insights and Recommendations**
+- Interpret model predictions to understand the key factors influencing AQI levels.  
+- Provide actionable recommendations for reducing exposure to pollution and improving air quality.  
+
+
 # Project Structure  
 ---
 # Features  
@@ -53,3 +80,38 @@ This project is licensed under the MIT License.
 
 # Contributing
 Contributions are welcome! Feel free to fork this repository, create a branch, and submit a pull request.
+
+# Acknowledgments
+This project was developed as part of a virtual internship by **Edunet Foundation** in collaboration with **Shell**, under the title:  
+**"Artificial Intelligence with Green Technology | 4-weeks Virtual Internship"**  
+
+# Internship Overview:
+- **Type:** Virtual  
+- **Duration:** 11th November 2024 to 14th December 2024  
+- **Description:**  
+  This internship aimed to equip students with technical skills in Artificial Intelligence (AI) and Green Skilling, empowering participants to develop project prototypes addressing sustainability challenges. The program offered hands-on experience under the mentorship of industry experts.  
+- **Perks:**  
+  - Personalized mentorship and collaborative learning opportunities.  
+  - Project-based learning with a focus on real-world applications.  
+  - Certificates from **AICTE**, **Edunet Foundation**, and **Industry Partners**.  
+  - Regional project showcase with industry leaders.  
+
+# Organizers:
+- **Shell:** A global leader in energy and petrochemical innovation, dedicated to sustainability and balanced energy transitions.  
+- **Edunet Foundation:** A pioneer in youth innovation and skill development, with over 300,000 trained students across India.
+
+For more details, visit the [AICTE Internship Portal](https://internship.aicte-india.org).
+
+---
+
+# Contact
+**Project Author:** Chetan Lande  
+📧 **Email:** landevaibhav14@gmail.com  
+📂 **GitHub:** [Chetan-Lande](https://github.com/Chetan-Lande)  
+
+---
+
+# Additional Information
+**Keywords:**  
+AI, Python, Data Analytics, Sustainability, Green Technology, Machine Learning, Deep Learning, AQI Prediction  
+
