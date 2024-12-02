@@ -1,0 +1,2 @@
+# Air-Quality-Index-AQI-Prediction-Machine-Learning-Approach
+This repository presents an AQI prediction project using machine learning, developed during an internship. It employs environmental data and modern algorithms to create a reliable model for air pollution management. Components include a dataset, random forest regression model, Jupyter notebook, Python scripts, and improvement recommendations.
